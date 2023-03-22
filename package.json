@@ -24,6 +24,7 @@
     "up-to-date-check": "node scripts/up-to-date-check.js"
   },
   "dependencies": {
+    "@google-cloud/appconnectors": "^0.4.1",
     "@mdn/yari": "2.10.1",
     "cross-env": "7.0.3",
     "env-cmd": "10.1.0",
